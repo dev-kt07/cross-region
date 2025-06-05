@@ -1,6 +1,6 @@
 DB_CONFIG = {
-    'host': 'your-db-endpoint',
-    'user': 'your-db-username',
-    'password': 'your-db-password',
-    'database': 'your-db-name'
+    'host': 'my-auora-db.cluster-cfoeioosoz1v.ap-south-1.rds.amazonaws.com',
+    'user': 'admin',
+    'password': 'krishna123456',
+    'database': 'my-aurora-db'
 }
